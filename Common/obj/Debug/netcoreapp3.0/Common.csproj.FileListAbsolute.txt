@@ -1,0 +1,8 @@
+C:\Users\Asus\source\repos\CompanyCore\Common\bin\Debug\netcoreapp3.0\Common.deps.json
+C:\Users\Asus\source\repos\CompanyCore\Common\bin\Debug\netcoreapp3.0\Common.dll
+C:\Users\Asus\source\repos\CompanyCore\Common\bin\Debug\netcoreapp3.0\Common.pdb
+C:\Users\Asus\source\repos\CompanyCore\Common\obj\Debug\netcoreapp3.0\Common.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\CompanyCore\Common\obj\Debug\netcoreapp3.0\Common.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\CompanyCore\Common\obj\Debug\netcoreapp3.0\Common.AssemblyInfo.cs
+C:\Users\Asus\source\repos\CompanyCore\Common\obj\Debug\netcoreapp3.0\Common.dll
+C:\Users\Asus\source\repos\CompanyCore\Common\obj\Debug\netcoreapp3.0\Common.pdb
