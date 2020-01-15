@@ -11,3 +11,16 @@ C:\Users\Asus\source\repos\CompanyCore\BLL\bin\Debug\netcoreapp3.0\Common.pdb
 C:\Users\Asus\source\repos\CompanyCore\BLL\bin\Debug\netcoreapp3.0\DAL.pdb
 C:\Users\Asus\source\repos\CompanyCore\BLL\obj\Debug\netcoreapp3.0\BLL.csprojAssemblyReference.cache
 C:\Users\Asus\source\repos\CompanyCore\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.CopyComplete
+C:\Users\AKRAMFARRAT\source\repos\CompanyCore\BLL\obj\Debug\netcoreapp3.0\BLL.csprojAssemblyReference.cache
+C:\Users\AKRAMFARRAT\source\repos\CompanyCore\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfoInputs.cache
+C:\Users\AKRAMFARRAT\source\repos\CompanyCore\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfo.cs
+C:\Users\AKRAMFARRAT\source\repos\CompanyCore\BLL\obj\Debug\netcoreapp3.0\BLL.dll
+C:\Users\AKRAMFARRAT\source\repos\CompanyCore\BLL\obj\Debug\netcoreapp3.0\BLL.pdb
+C:\Users\AKRAMFARRAT\source\repos\CompanyCore\BLL\bin\Debug\netcoreapp3.0\BLL.deps.json
+C:\Users\AKRAMFARRAT\source\repos\CompanyCore\BLL\bin\Debug\netcoreapp3.0\BLL.dll
+C:\Users\AKRAMFARRAT\source\repos\CompanyCore\BLL\bin\Debug\netcoreapp3.0\BLL.pdb
+C:\Users\AKRAMFARRAT\source\repos\CompanyCore\BLL\bin\Debug\netcoreapp3.0\Common.dll
+C:\Users\AKRAMFARRAT\source\repos\CompanyCore\BLL\bin\Debug\netcoreapp3.0\DAL.dll
+C:\Users\AKRAMFARRAT\source\repos\CompanyCore\BLL\bin\Debug\netcoreapp3.0\Common.pdb
+C:\Users\AKRAMFARRAT\source\repos\CompanyCore\BLL\bin\Debug\netcoreapp3.0\DAL.pdb
+C:\Users\AKRAMFARRAT\source\repos\CompanyCore\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.CopyComplete

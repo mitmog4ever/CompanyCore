@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\source\\repos\\CompanyCore\\BLL\\BLL.csproj": {}
+    "C:\\Users\\AKRAMFARRAT\\source\\repos\\CompanyCore\\BLL\\BLL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\source\\repos\\CompanyCore\\BLL\\BLL.csproj": {
+    "C:\\Users\\AKRAMFARRAT\\source\\repos\\CompanyCore\\BLL\\BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\CompanyCore\\BLL\\BLL.csproj",
+        "projectUniqueName": "C:\\Users\\AKRAMFARRAT\\source\\repos\\CompanyCore\\BLL\\BLL.csproj",
         "projectName": "BLL",
-        "projectPath": "C:\\Users\\Asus\\source\\repos\\CompanyCore\\BLL\\BLL.csproj",
-        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\source\\repos\\CompanyCore\\BLL\\obj\\",
+        "projectPath": "C:\\Users\\AKRAMFARRAT\\source\\repos\\CompanyCore\\BLL\\BLL.csproj",
+        "packagesPath": "C:\\Users\\AKRAMFARRAT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AKRAMFARRAT\\source\\repos\\CompanyCore\\BLL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\AKRAMFARRAT\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -27,11 +27,11 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\Asus\\source\\repos\\CompanyCore\\Common\\Common.csproj": {
-                "projectPath": "C:\\Users\\Asus\\source\\repos\\CompanyCore\\Common\\Common.csproj"
+              "C:\\Users\\AKRAMFARRAT\\source\\repos\\CompanyCore\\Common\\Common.csproj": {
+                "projectPath": "C:\\Users\\AKRAMFARRAT\\source\\repos\\CompanyCore\\Common\\Common.csproj"
               },
-              "C:\\Users\\Asus\\source\\repos\\CompanyCore\\DAL\\DAL.csproj": {
-                "projectPath": "C:\\Users\\Asus\\source\\repos\\CompanyCore\\DAL\\DAL.csproj"
+              "C:\\Users\\AKRAMFARRAT\\source\\repos\\CompanyCore\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\AKRAMFARRAT\\source\\repos\\CompanyCore\\DAL\\DAL.csproj"
               }
             }
           }
@@ -63,17 +63,17 @@
         }
       }
     },
-    "C:\\Users\\Asus\\source\\repos\\CompanyCore\\Common\\Common.csproj": {
+    "C:\\Users\\AKRAMFARRAT\\source\\repos\\CompanyCore\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\CompanyCore\\Common\\Common.csproj",
+        "projectUniqueName": "C:\\Users\\AKRAMFARRAT\\source\\repos\\CompanyCore\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "C:\\Users\\Asus\\source\\repos\\CompanyCore\\Common\\Common.csproj",
-        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\source\\repos\\CompanyCore\\Common\\obj\\",
+        "projectPath": "C:\\Users\\AKRAMFARRAT\\source\\repos\\CompanyCore\\Common\\Common.csproj",
+        "packagesPath": "C:\\Users\\AKRAMFARRAT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AKRAMFARRAT\\source\\repos\\CompanyCore\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\AKRAMFARRAT\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -115,17 +115,17 @@
         }
       }
     },
-    "C:\\Users\\Asus\\source\\repos\\CompanyCore\\DAL\\DAL.csproj": {
+    "C:\\Users\\AKRAMFARRAT\\source\\repos\\CompanyCore\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\CompanyCore\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\Users\\AKRAMFARRAT\\source\\repos\\CompanyCore\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "C:\\Users\\Asus\\source\\repos\\CompanyCore\\DAL\\DAL.csproj",
-        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\source\\repos\\CompanyCore\\DAL\\obj\\",
+        "projectPath": "C:\\Users\\AKRAMFARRAT\\source\\repos\\CompanyCore\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\AKRAMFARRAT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AKRAMFARRAT\\source\\repos\\CompanyCore\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\AKRAMFARRAT\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

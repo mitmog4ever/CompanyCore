@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Asus\\.nuget\\packages\\": {}
+    "C:\\Users\\AKRAMFARRAT\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\CompanyCore\\CompanyCoreWebApp\\CompanyCoreWebApp.csproj",
+      "projectUniqueName": "C:\\Users\\AKRAMFARRAT\\source\\repos\\CompanyCore\\CompanyCoreWebApp\\CompanyCoreWebApp.csproj",
       "projectName": "CompanyCoreWebApp",
-      "projectPath": "C:\\Users\\Asus\\source\\repos\\CompanyCore\\CompanyCoreWebApp\\CompanyCoreWebApp.csproj",
-      "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asus\\source\\repos\\CompanyCore\\CompanyCoreWebApp\\obj\\",
+      "projectPath": "C:\\Users\\AKRAMFARRAT\\source\\repos\\CompanyCore\\CompanyCoreWebApp\\CompanyCoreWebApp.csproj",
+      "packagesPath": "C:\\Users\\AKRAMFARRAT\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\AKRAMFARRAT\\source\\repos\\CompanyCore\\CompanyCoreWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\AKRAMFARRAT\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

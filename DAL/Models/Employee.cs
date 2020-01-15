@@ -1,8 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace DAL.Models
-{
+{   [Table("Employee")]
     public partial class Employee
     {
         public int IdEmp { get; set; }
